@@ -1,0 +1,24 @@
+{
+  "name": "jmaerckaert/FlexSlider",
+  "description": "An awesome, fully responsive jQuery slider toolkit.",
+  "keywords": ["flexslider","slider","jquery","woocommerce","automattic"],
+  "homepage": "https://github.com/jmaerckaert"
+}
+{
+    "name": "jmaerckaert/flexlider",
+    "description": "Libraries flexslider for Drupal flexslider module",
+    "type": "drupal-library",
+    "homepage": "https://github.com/jmaerckaert/flexslider",
+    "authors": [
+        {
+            "name": "Jonathan Maerckaert (jmaerckaert)",
+            "homepage": "https://github.com/jmaerckaert/",
+            "role": "Maintainer"
+        }
+    ],
+    "support": {
+        "source": "https://github.com/jmaerckaert/flexslider"
+    },
+    "license": "GPL-2.0+",
+    "minimum-stability": "dev"
+}
